@@ -1,6 +1,7 @@
 ### Hi there 👋
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yxxnhx&show_icons=true&theme=radical)
 
+<a href="https://www.notion.so/yxxhx-9307f725a72f490384ccf7521c3defe7" target="_blank"><img src="https://img.shields.io/badge/Notion-#000000?style=flat-square&logo=Notion&logoColor=white"/></a>
 
 <!--
 **yxxnhx/yxxnhx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
