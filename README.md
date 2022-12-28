@@ -8,7 +8,7 @@
 <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white"/></a>
 <a href="https://velog.io/@yxxnhx" target="_blank">
 <img src="https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=Velog&logoColor=white"/></a>
-<a href="tjdbsgk514@gmail.com" target="_blank">
+<a href="mailto:tjdbsgk514@gmail.com" target="_blank">
 <img src="https://img.shields.io/badge/Gmail-C71610?style=flat-square&logo=Gmail&logoColor=white"/></a>
 
 ### Skills
