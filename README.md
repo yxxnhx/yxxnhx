@@ -23,7 +23,7 @@
     <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=TypeScript&logoColor=white"/>
   <img src="https://img.shields.io/badge/Next.js-black?style=flat-square&logo=Next.js&logoColor=white"/>
   <img src="https://img.shields.io/badge/Storybook-FF4785?style=flat-square&logo=Storybook&logoColor=white"/>
-  <img src="https://img.shields.io/badge/tailwindcss-0F172A?&logo=tailwindcss&logoColor=white"/>]
+  <img src="https://img.shields.io/badge/tailwindcss-0F172A?&logo=tailwindcss&logoColor=white"/>
 </div>
 <div>
     <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=Figma&logoColor=white"/>
@@ -31,6 +31,7 @@
 
 <br />
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yxxnx&layout=compact)
 
 <!--
 **yxxnhx/yxxnhx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
