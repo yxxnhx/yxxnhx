@@ -33,10 +33,7 @@
 
 ### Statistics
 <div>
-  <img alt="stats" align="left" src="https://github-readme-stats.vercel.app/api?username=yxxnhx&show_icons=true&theme=holi" width = "100%" height="auto" />
-</div>
-<div>
-  <img height=200 align="left"src="https://github-readme-stats.vercel.app/api/top-langs/?username=yxxnhx&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true&size_weight=0.5&count_weight=0.5"/>
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yxxnhx)](https://github.com/anuraghazra/github-readme-stats)
 </div>
 <!--
 **yxxnhx/yxxnhx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
