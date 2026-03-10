@@ -4,7 +4,7 @@
 <p>안녕하세요, 지식은 나누고 경험은 더하며 노하우를 곱하며 성장하는 개발자 서윤하입니다.
 <br />"몰입"이라는 강점을 가지고 코드에 몰입하여 계속해서 고민하고 또 고민하며 앞으로 나아가는 중입니다💪</p>
 
-<a href="https://www.notion.so/yxxhx-9307f725a72f490384ccf7521c3defe7" target="_blank">
+<a href="https://snowy-reminder-6c9.notion.site/yxxnhx-bf60dd1caffa836d99aa81a6fa6fbeb0?pvs=143" target="_blank">
 <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white"/></a>
 <a href="https://velog.io/@yxxnhx" target="_blank">
 <img src="https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=Velog&logoColor=white"/></a>
